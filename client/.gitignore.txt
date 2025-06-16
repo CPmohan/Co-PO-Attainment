@@ -1,0 +1,20 @@
+# Node / React
+client/node_modules/
+client/build/
+client/.env
+
+# Go
+go-backend/bin/
+go-backend/pkg/
+go-backend/*.exe
+go-backend/*.out
+go-backend/*.test
+go-backend/.env
+
+# System & Editor
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
+

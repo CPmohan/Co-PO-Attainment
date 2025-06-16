@@ -1,0 +1,14 @@
+client/node_modules/
+client/build/
+client/.env
+
+go-backend/bin/
+go-backend/pkg/
+go-backend/*.exe
+go-backend/*.out
+go-backend/.env
+
+*.log
+.vscode/
+.idea/
+
